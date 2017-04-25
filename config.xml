@@ -72,8 +72,8 @@
     </platform>
     <icon src="resources/ios/icon/icon-small@3x.png" />
     <plugin name="cordova-plugin-facebook4" spec="~1.7.4">
-        <variable name="APP_ID" value="871663586306973" />
-        <variable name="APP_NAME" value="AnkushSampleApp" />
+        <variable name="APP_ID" value="119624875256678" />
+        <variable name="APP_NAME" value="ionic_login" />
     </plugin>
     <plugin name="cordova-plugin-googleplus" spec="~5.1.1">
         <variable name="REVERSED_CLIENT_ID" value="com.googleusercontent.apps.222662308577-i8obql085ibfahugdqan0enon97bmnln" />
